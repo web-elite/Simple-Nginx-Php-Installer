@@ -16,7 +16,6 @@ sudo systemctl start nginx
 
 # Enable firewall
 sudo ufw allow 'Nginx Full'
-sudo ufw --force enable
 
 # Menu
 while true; do
